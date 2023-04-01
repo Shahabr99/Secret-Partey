@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  background-color: rgb(210, 180, 141);
+}
+
+h1 {
+  color: #eee;
+  background-color: rgb(233, 133, 133);
+  padding: 10px 30px;
+  border-radius: 15px;
+  box-shadow: 2px 2px 15px white;
+  text-align: center;
+  width: 300px;
+  text-shadow: 1px 1px 15px #000;
+}
